@@ -66,7 +66,7 @@ void MainWindow::OpenFile3(){
 void MainWindow::About(){
     QMessageBox::about(this, tr("About Program"),
                        tr("<h2>Steganography 0.2</h2>"
-                          "<p>Copyright &copy; 2011 Lizanets Danylo.</p>",0
+                          "<p>Copyright &copy;.</p>",0
                           ));
 }
 void MainWindow::Help(){
